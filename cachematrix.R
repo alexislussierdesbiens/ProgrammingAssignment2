@@ -20,6 +20,7 @@ makeCacheMatrix <- function(x = matrix()) {
 
 
 ## Write a short comment describing this function
+## Really just a copy-paste of the cacheMean adapted for matrix inversion. 
 
 cacheSolve <- function(x, ...) {
         ## Return a matrix that is the inverse of 'x'
